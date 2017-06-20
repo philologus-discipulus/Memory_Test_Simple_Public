@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Memory_Test_Simple/Memory_Test_Simple.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Memory_Test_Simple/MainWindow.cs">
+    <Files>
+      <File FileName="Memory_Test_Simple/MainWindow.cs" Line="166" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
